@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjana0
 - 👀 I’m interested in Blockchain, Machine Learning, Deep Learning, Reinforcement Learning
 - 🌱 I’m currently learning Reinforcement Learning and Deep Learning
-- 💞️ I’m looking to collaborate on Deep Learning and Reinforcement Learning Projects
+- 💞️ I’m looking to collaborate on Deep Learning and Reinforcement Learning and Blockchain related Projects
 - 📫 Reach me via my email yablue90@gmail.com
 
 <!---
