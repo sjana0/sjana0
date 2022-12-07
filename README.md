@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo13374
-Fork on GitHub3511
 <h1 align="center">Hi 👋, I'm Soumyanil Jana</h1>
 <h3 align="center">A passionate developer from India</h3>
 
